@@ -1,1 +1,2 @@
-# project-doubt
+# synchronousBallMovement
+Ball moving synchronously
